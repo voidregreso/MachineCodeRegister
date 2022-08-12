@@ -1,2 +1,2 @@
 # MachineCodeRegister
-基于Windows系统的激活库，本程序可以自动获取CPUID和硬盘ID作为机器码，并根据机器码利用加密算法生成注册码
+Una biblioteca de activación para el sistema Windows, este programa puede obtener automáticamente la CPUID y la ID del disco duro como código de la máquina, y usar el algoritmo de cifrado para generar el código de registro de acuerdo con el código de la máquina.
